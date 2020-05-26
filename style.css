@@ -41,12 +41,17 @@ nav {
 
 li {
     display: inline-block;
+    color: white;
     margin: auto;
 }
 
 li img {
     height: 55px;
     width: 55px;
+}
+
+.skills li {
+    padding-left: 40px;
 }
 
 /*Footer*/
