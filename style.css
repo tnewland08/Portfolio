@@ -34,6 +34,17 @@ nav {
    text-align: center;
 }
 
+.intro li {
+    display: inline-block;
+    color: white;
+    margin: auto;
+}
+
+.intro li img {
+    height: 55px;
+    width: 55px;
+}
+
 .aboutInfo {
     padding-bottom: 50px;
 }
@@ -51,6 +62,7 @@ nav {
 }
 
 .skills li {
+    color: white;
     padding-left: 40px;
 }
 
@@ -66,16 +78,6 @@ nav {
     width: 300px;
 }
 
-li {
-    display: inline-block;
-    color: white;
-    margin: auto;
-}
-
-li img {
-    height: 55px;
-    width: 55px;
-}
 
 
 
